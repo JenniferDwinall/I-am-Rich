@@ -1,4 +1,4 @@
-I am Rich app
+I Am Rich iOS App
 
 Part of iOS 13 App Development Coding Lessons by AppBrewery
 
